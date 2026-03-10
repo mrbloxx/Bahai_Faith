@@ -18,6 +18,8 @@ Diese Sammlung enthält alle relevanten Artikel der deutschen Wikipedia über de
 | **Manifestation Gottes** | https://de.wikipedia.org/wiki/Manifestation_Gottes |
 | **Fortschreitende Offenbarung** | https://de.wikipedia.org/wiki/Fortschreitende_Offenbarung |
 | **Universalismus (Religionswissenschaft)** | https://de.wikipedia.org/wiki/Universalismus_(Religionswissenschaft) |
+| **Symbole der Bahai-Religion** | https://de.wikipedia.org/wiki/Symbole_der_Bahai-Religion |
+| **Zwölf ethische Grundsätze der Bahai** | https://de.wikipedia.org/wiki/Zw%C3%B6lf_ethische_Grunds%C3%A4tze_der_Bahai |
 
 ### 02 - Geschichte
 
@@ -39,6 +41,9 @@ Diese Sammlung enthält alle relevanten Artikel der deutschen Wikipedia über de
 | **Universales Haus der Gerechtigkeit** | https://de.wikipedia.org/wiki/Universales_Haus_der_Gerechtigkeit |
 | **Bahai-Verwaltungsordnung** | https://de.wikipedia.org/wiki/Bahai-Verwaltungsordnung |
 | **Geistiger Rat** | https://de.wikipedia.org/wiki/Geistiger_Rat |
+| **Örtlicher Geistiger Rat** | https://de.wikipedia.org/wiki/%C3%96rtlicher_Geistiger_Rat |
+| **Nationaler Geistiger Rat** | https://de.wikipedia.org/wiki/Nationaler_Geistiger_Rat |
+| **Regionaler Geistiger Rat** | https://de.wikipedia.org/wiki/Regionaler_Geistiger_Rat |
 | **Internationale Bahá'í-Gemeinde** | https://de.wikipedia.org/wiki/Internationale_Bah%C3%A1%E2%80%99%C3%AD-Gemeinde |
 | **Bahai-Weltzentrum** | https://de.wikipedia.org/wiki/Bahai-Weltzentrum |
 
